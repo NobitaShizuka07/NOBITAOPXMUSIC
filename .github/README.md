@@ -64,7 +64,7 @@ npm start
 ## ☁️ Cloud Platforms
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roj1512/remix)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AtEZXS?referralCode=SUqB66)
 ## ⚒ Configuring
 
 - `BOT_TOKEN`: Telegram bot token.
